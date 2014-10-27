@@ -1,5 +1,4 @@
 Presentation
 ============
 
-Live Demo
-============
+Live Demo to be demonstrated at Web Tech
